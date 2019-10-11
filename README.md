@@ -22,3 +22,13 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+This is how it will break down: 
+
+-Hompage will be the login form. 
+
+-Once logged in, you will be able to view all of your photos (thinking rows of 4 rows of 4)
+
+-You can click on a photo to view it larger in a modal
+
+-There is a button that you can click (thinking top right corner, where you can add photos)
