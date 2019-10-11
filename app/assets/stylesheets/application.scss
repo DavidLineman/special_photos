@@ -13,3 +13,21 @@
 
  */
  @import "bootstrap";
+
+ .hero {
+  background: url(background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+ }
+
+.headline {
+  color: white;
+}
+
+.login {
+  color: white;
+  text-decoration: none;
+}
